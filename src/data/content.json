@@ -1,0 +1,42 @@
+{
+  "home": {
+    "title": "Welcome to Our Innovate Platform",
+    "subtitle": "Driving the future of technology, today.",
+    "heroImage": "https://placehold.co/1200x600?text=Hero+Image"
+  },
+  "brands": {
+    "title": "Our Trusted Brands",
+    "description": "We partner with the world's leading companies.",
+    "items": [
+      { "name": "Acme Corp", "logo": "https://placehold.co/150x150?text=Acme" },
+      { "name": "Globex", "logo": "https://placehold.co/150x150?text=Globex" },
+      { "name": "Soylent", "logo": "https://placehold.co/150x150?text=Soylent" },
+      { "name": "Umbrella", "logo": "https://placehold.co/150x150?text=Umbrella" }
+    ]
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Explore our wide range of cutting-edge products.",
+    "items": [
+      { "name": "SuperWidget X", "price": "$99.99", "image": "https://placehold.co/300x200?text=Widget+X", "description": "The best widget in the market." },
+      { "name": "MegaGadget Y", "price": "$149.99", "image": "https://placehold.co/300x200?text=Gadget+Y", "description": "Solves all your gadget needs." },
+      { "name": "UltraTool Z", "price": "$199.99", "image": "https://placehold.co/300x200?text=Tool+Z", "description": "Precision engineering at its finest." }
+    ]
+  },
+  "solutions": {
+    "title": "Our Solutions",
+    "description": "Tailored solutions for your business challenges.",
+    "items": [
+      { "title": "Enterprise Cloud", "description": "Scalable cloud infrastructure for large enterprises." },
+      { "title": "Cyber Security", "description": "Protecting your digital assets 24/7." },
+      { "title": "AI Analytics", "description": "Data-driven insights using advanced AI." }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We'd love to hear from you. Reach out to us today!",
+    "address": "123 Innovation Drive, Tech City, TC 90210",
+    "email": "contact@innovate.com",
+    "phone": "+1 (555) 123-4567"
+  }
+}
